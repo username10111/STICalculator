@@ -1,0 +1,4 @@
+﻿  Form1.cpp
+  Form1.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  STICalculator.vcxproj -> c:\users\storylab\documents\visual studio 2015\Projects\STICalculator\Debug\STICalculator.exe
+  STICalculator.vcxproj -> c:\users\storylab\documents\visual studio 2015\Projects\STICalculator\Debug\STICalculator.pdb (Partial PDB)
